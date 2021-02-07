@@ -283,7 +283,7 @@ class Application(tk.Frame):
             #start = time.time()
 
 root = tk.Tk()
-root.title('Co....')
+root.title('County')
 photo = PhotoImage(file = 'wutcat.png')
 root.iconphoto(False, photo)
 root.attributes('-topmost', 'true')
