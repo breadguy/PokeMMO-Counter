@@ -3,7 +3,7 @@
 This counter uses the Tesseract library to scan for pokemon names and track how many of each pokemon you've encountered.
 
 Requirements:
--Python 3.8.2
+- Python 3.8.2
 
 Instructions:
 - Download and extract
